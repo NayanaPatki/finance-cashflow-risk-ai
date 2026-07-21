@@ -100,7 +100,7 @@ def import_data_bundle(
     try:
         transactions = load_transactions(temporary_transaction)
         invoices = load_invoices(temporary_invoice)
-        assumptions = load_assumptions(temporary_assumption)
+        load_assumptions(temporary_assumption)
         if not transactions or not invoices:
             raise DataSourceError("Both files must contain at least one data row.")
         analysis_date(transactions)
