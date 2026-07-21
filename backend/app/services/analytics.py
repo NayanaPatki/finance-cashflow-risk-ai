@@ -5,7 +5,7 @@ from collections import defaultdict
 from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
-from statistics import mean, median
+from statistics import median
 
 
 @dataclass(frozen=True)
