@@ -1,0 +1,79 @@
+transaction_id,transaction_date,account,direction,category,counterparty,amount,status,description
+TX-0001,2026-04-03,Operating Account,inflow,Customer Receipts,Northstar Retail,38000,actual,Weekly customer collections
+TX-0002,2026-04-04,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0003,2026-04-05,Operating Account,outflow,Suppliers,Core Materials,7600,actual,Inventory and fulfillment vendors
+TX-0004,2026-04-06,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0005,2026-04-07,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0006,2026-04-04,Operating Account,outflow,Rent,Harbor Properties,7800,actual,Office and warehouse rent
+TX-0007,2026-04-10,Operating Account,inflow,Customer Receipts,Apex Distribution,42000,actual,Weekly customer collections
+TX-0008,2026-04-11,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0009,2026-04-12,Operating Account,outflow,Suppliers,PackRight,8450,actual,Inventory and fulfillment vendors
+TX-0010,2026-04-13,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0011,2026-04-14,Operating Account,outflow,Marketing,Growth Media,4800,actual,Performance marketing
+TX-0012,2026-04-17,Operating Account,inflow,Customer Receipts,BluePeak Foods,35500,actual,Weekly customer collections
+TX-0013,2026-04-18,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0014,2026-04-19,Operating Account,outflow,Suppliers,TransitWorks,9300,actual,Inventory and fulfillment vendors
+TX-0015,2026-04-20,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0016,2026-04-21,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0017,2026-04-24,Operating Account,inflow,Customer Receipts,Vertex Labs,47000,actual,Weekly customer collections
+TX-0018,2026-04-25,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0019,2026-04-26,Operating Account,outflow,Suppliers,Core Materials,7600,actual,Inventory and fulfillment vendors
+TX-0020,2026-04-27,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0021,2026-04-28,Operating Account,outflow,Marketing,Growth Media,4800,actual,Performance marketing
+TX-0022,2026-05-01,Operating Account,inflow,Customer Receipts,Northstar Retail,40500,actual,Weekly customer collections
+TX-0023,2026-05-02,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0024,2026-05-03,Operating Account,outflow,Suppliers,PackRight,8450,actual,Inventory and fulfillment vendors
+TX-0025,2026-05-04,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0026,2026-05-05,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0027,2026-05-02,Operating Account,outflow,Rent,Harbor Properties,7800,actual,Office and warehouse rent
+TX-0028,2026-05-08,Operating Account,inflow,Customer Receipts,Apex Distribution,44500,actual,Weekly customer collections
+TX-0029,2026-05-09,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0030,2026-05-10,Operating Account,outflow,Suppliers,TransitWorks,9300,actual,Inventory and fulfillment vendors
+TX-0031,2026-05-11,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0032,2026-05-12,Operating Account,outflow,Marketing,Growth Media,4800,actual,Performance marketing
+TX-0033,2026-05-15,Operating Account,inflow,Customer Receipts,BluePeak Foods,39000,actual,Weekly customer collections
+TX-0034,2026-05-16,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0035,2026-05-17,Operating Account,outflow,Suppliers,Core Materials,7600,actual,Inventory and fulfillment vendors
+TX-0036,2026-05-18,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0037,2026-05-19,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0038,2026-05-22,Operating Account,inflow,Customer Receipts,Vertex Labs,48000,actual,Weekly customer collections
+TX-0039,2026-05-23,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0040,2026-05-24,Operating Account,outflow,Suppliers,PackRight,8450,actual,Inventory and fulfillment vendors
+TX-0041,2026-05-25,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0042,2026-05-26,Operating Account,outflow,Marketing,Growth Media,4800,actual,Performance marketing
+TX-0043,2026-05-29,Operating Account,inflow,Customer Receipts,Northstar Retail,41500,actual,Weekly customer collections
+TX-0044,2026-05-30,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0045,2026-05-31,Operating Account,outflow,Suppliers,TransitWorks,9300,actual,Inventory and fulfillment vendors
+TX-0046,2026-06-01,Operating Account,outflow,Cloud & Software,CloudStack,15000,actual,Annual platform true-up
+TX-0047,2026-06-02,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0048,2026-05-30,Operating Account,outflow,Rent,Harbor Properties,7800,actual,Office and warehouse rent
+TX-0049,2026-06-05,Operating Account,inflow,Customer Receipts,Apex Distribution,45500,actual,Weekly customer collections
+TX-0050,2026-06-06,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0051,2026-06-07,Operating Account,outflow,Suppliers,Core Materials,7600,actual,Inventory and fulfillment vendors
+TX-0052,2026-06-08,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0053,2026-06-09,Operating Account,outflow,Marketing,Growth Media,24000,actual,Unplanned campaign expansion
+TX-0054,2026-06-12,Operating Account,inflow,Customer Receipts,BluePeak Foods,37000,actual,Weekly customer collections
+TX-0055,2026-06-13,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0056,2026-06-14,Operating Account,outflow,Suppliers,PackRight,8450,actual,Inventory and fulfillment vendors
+TX-0057,2026-06-15,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0058,2026-06-16,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0059,2026-06-19,Operating Account,inflow,Customer Receipts,Vertex Labs,49000,actual,Weekly customer collections
+TX-0060,2026-06-20,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0061,2026-06-21,Operating Account,outflow,Suppliers,TransitWorks,9300,actual,Inventory and fulfillment vendors
+TX-0062,2026-06-22,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0063,2026-06-23,Operating Account,outflow,Marketing,Growth Media,4800,actual,Performance marketing
+TX-0064,2026-06-26,Operating Account,inflow,Customer Receipts,Northstar Retail,43500,actual,Weekly customer collections
+TX-0065,2026-06-27,Operating Account,outflow,Payroll,Payroll Provider,18000,actual,Weekly payroll and benefits
+TX-0066,2026-06-28,Operating Account,outflow,Suppliers,Core Materials,7600,actual,Inventory and fulfillment vendors
+TX-0067,2026-06-29,Operating Account,outflow,Cloud & Software,CloudStack,2900,actual,Cloud and SaaS services
+TX-0068,2026-06-30,Operating Account,outflow,Marketing,Growth Media,4300,actual,Performance marketing
+TX-0069,2026-06-27,Operating Account,outflow,Rent,Harbor Properties,7800,actual,Office and warehouse rent
+TX-0070,2026-04-08,Operating Account,outflow,Insurance,SecureCover,6200,actual,Quarterly insurance premium
+TX-0071,2026-05-13,Operating Account,outflow,Professional Services,Ledger Advisory,8500,actual,Audit readiness support
+TX-0072,2026-06-30,Operating Account,outflow,Tax,Revenue Authority,12000,actual,Quarterly payroll tax settlement
+TX-0073,2026-07-15,Operating Account,outflow,Tax,Revenue Authority,65000,planned,Quarterly corporate tax payment
+TX-0074,2026-07-28,Operating Account,outflow,Insurance,SecureCover,18000,planned,Annual policy renewal
+TX-0075,2026-08-10,Operating Account,outflow,Capital Expenditure,Automation Systems,90000,planned,Warehouse automation deposit
+TX-0076,2026-08-20,Operating Account,inflow,Grant,Regional Growth Fund,25000,planned,Approved growth grant
+TX-0077,2026-08-31,Operating Account,outflow,Financing,Community Bank,30000,planned,Debt principal and interest
+TX-0078,2026-09-18,Operating Account,outflow,Tax,Revenue Authority,42000,planned,Estimated tax installment

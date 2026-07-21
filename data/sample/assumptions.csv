@@ -1,0 +1,4 @@
+assumption,value,unit,description
+opening_cash,180000,USD,Cash balance immediately before the first actual transaction
+minimum_cash_buffer,120000,USD,Management minimum operating liquidity threshold
+forecast_weeks,13,weeks,Rolling cash forecast horizon

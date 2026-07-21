@@ -1,0 +1,13 @@
+invoice_id,customer,issue_date,due_date,amount,amount_paid,payment_date,status
+INV-1001,Northstar Retail,2026-04-01,2026-04-30,52000,52000,2026-05-03,paid
+INV-1002,Apex Distribution,2026-04-12,2026-05-12,46000,46000,2026-05-14,paid
+INV-1003,BluePeak Foods,2026-05-01,2026-05-31,61000,20000,2026-06-05,open
+INV-1004,Vertex Labs,2026-05-08,2026-06-07,38000,0,,disputed
+INV-1005,Northstar Retail,2026-05-18,2026-06-17,72000,30000,2026-06-20,open
+INV-1006,Apex Distribution,2026-06-01,2026-07-01,58000,0,,open
+INV-1007,Evergreen Market,2026-06-04,2026-07-04,27000,0,,open
+INV-1008,BluePeak Foods,2026-06-10,2026-07-10,44000,0,,open
+INV-1009,Vertex Labs,2026-06-15,2026-07-15,35000,0,,open
+INV-1010,Northstar Retail,2026-06-20,2026-07-20,68000,0,,open
+INV-1011,Apex Distribution,2026-06-24,2026-07-24,49000,0,,open
+INV-1012,Evergreen Market,2026-06-27,2026-07-27,31000,0,,open
