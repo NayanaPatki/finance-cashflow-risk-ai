@@ -1,6 +1,6 @@
-# Finance Cash Flow & Risk AI
+# CashLens | Finance Cash Flow & Risk AI
 
-An end-to-end FP&A and treasury analytics portfolio project for finance teams that need earlier visibility into liquidity pressure, slow collections, and unusual spending. The application combines a 13-week cash forecast, receivables risk scoring, robust expense anomaly detection, scenario planning, validated finance data ingestion, and Power BI-ready reporting assets.
+CashLens is an end-to-end FP&A and treasury analytics portfolio project for finance teams that need earlier visibility into liquidity pressure, slow collections, and unusual spending. The application combines a 13-week cash forecast, receivables risk scoring, robust expense anomaly detection, scenario planning, validated finance data ingestion, and Power BI-ready reporting assets.
 
 ![Finance Cash Flow & Risk AI dashboard](docs/dashboard-preview.png)
 
